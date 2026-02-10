@@ -801,3 +801,10 @@ footer p {
         width: 100%;
     }
 }
+
+* {
+
+  font-family: Arial, sans-serif !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
